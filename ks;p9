@@ -1,0 +1,3 @@
+mtcars
+str(mtcars)
+summary(mtcars)
