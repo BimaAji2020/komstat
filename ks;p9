@@ -1,3 +1,4 @@
 mtcars
 str(mtcars)
 summary(mtcars)
+mean(mtcars$mpg)
